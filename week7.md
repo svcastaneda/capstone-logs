@@ -1,7 +1,7 @@
 # Week 7
 
 ### Events of the week
-- 
+- Working on creating/allowing different user account types
 
 ------------------
 
