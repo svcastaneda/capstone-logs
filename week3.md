@@ -19,11 +19,6 @@
 
 ------------------
 
-### Conflicts
-- 
-
-------------------
-
 ### Expecations Met
 - Was able to successfully deploy a Rails app to Heroku
 - Secured a [heroku site](https://dpu-capstone.herokuapp.com)
